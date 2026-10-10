@@ -211,7 +211,7 @@ Developed as a project to explore Python, quantitative analysis, feature enginee
 
 **Technologies:** Python · Pandas · NumPy · Scikit-learn · TensorFlow · Yahoo Finance
 
-**This is a sample of report generation.**
+**This is a sample of report generation:**
 
 <img width="1238" height="860" alt="image" src="https://github.com/user-attachments/assets/65d1cba6-5077-4ac7-b822-248b326f48c8" />
 
