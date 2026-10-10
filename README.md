@@ -210,6 +210,7 @@ StockMap AI is an educational and experimental machine-learning project. It is n
 Developed as a project to explore Python, quantitative analysis, feature engineering, machine learning, and deep learning in financial-market applications.
 
 **Technologies:** Python · Pandas · NumPy · Scikit-learn · TensorFlow · Yahoo Finance
+
 **This is a sample of report generation.**
 <img width="1238" height="860" alt="image" src="https://github.com/user-attachments/assets/65d1cba6-5077-4ac7-b822-248b326f48c8" />
 
