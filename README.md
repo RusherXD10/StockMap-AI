@@ -205,6 +205,8 @@ Potential improvements to the project include:
 
 StockMap AI is an educational and experimental machine-learning project. It is not a financial advisory service, and its predictions should not be used as the sole basis for investment decisions. Historical patterns may not persist, and all predictive models are subject to uncertainty.
 
+The following models are not trained extensively and are not optimized to it's fullest to generate accurate results and predictions.
+
 ## 👨‍💻 Author
 
 Developed as a project to explore Python, quantitative analysis, feature engineering, machine learning, and deep learning in financial-market applications.
