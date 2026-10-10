@@ -187,19 +187,6 @@ The project evaluates:
 
 Model performance can vary depending on the ticker, analysis period, market conditions, and selected features. Evaluation results from historical data do not guarantee future predictive performance.
 
-## 🔮 Future Improvements
-
-Potential improvements to the project include:
-
-- Backtesting trading strategies with transaction costs.
-- Comparing additional technical indicators and feature sets.
-- Tuning hyperparameters through time-series-aware validation.
-- Evaluating classification models with precision, recall, F1-score, and ROC-AUC.
-- Comparing predictions against simple baseline models.
-- Improving neural network calibration and probability evaluation.
-- Saving reports directly to the `reports/` directory.
-- Adding automated tests and visualizations.
-- Building an interactive dashboard for stock analysis.
 
 ## ⚠️ Disclaimer
 
